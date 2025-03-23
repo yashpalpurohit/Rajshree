@@ -153,6 +153,7 @@ nav{
     z-index: 9;
     color: var(--white-show);
     display: none;
+    margin-right:30px;
 }
 
 .ri-close-large-line{
